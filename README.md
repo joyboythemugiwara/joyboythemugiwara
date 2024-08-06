@@ -1,18 +1,18 @@
--👋 Hi, I’m @joyboythemugiwara
+- 👋 Hi, I’m @joyboythemugiwara
 
--👀 I’m interested in backend development.
+- 👀 I’m interested in backend development.
 
--🌱 I’m currently learning Django, neural networks, and the MERN stack.
+- 🌱 I’m currently learning Django, neural networks, and the MERN stack.
 
--💞️ I’m looking to collaborate on open-source projects and startup ideas.
+- 💞️ I’m looking to collaborate on open-source projects and startup ideas.
 
--📫 How to reach me: Github
+- 📫 How to reach me: Github
 
--😄 Pronouns: Mugiwara
+- 😄 Pronouns: Mugiwara
 
--⚡ Fun fact: I created an ESP32 CAM scanner and taught it to recognize faces!
+- ⚡ Fun fact: I created an ESP32 CAM scanner and taught it to recognize faces!
 
--📜 “One day or Day one. You decide.”
+- 📜 “One day or Day one. You decide.”
 
 <!---
 joyboythemugiwara/joyboythemugiwara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
